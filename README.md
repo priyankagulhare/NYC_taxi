@@ -6,5 +6,6 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 
-
-
+## Code ##
+Execute NYC_Taxi.ipynb 
+It has EDA, Feature selection, training of model and prediction.
